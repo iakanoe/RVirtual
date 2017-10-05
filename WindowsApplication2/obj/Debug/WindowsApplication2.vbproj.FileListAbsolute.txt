@@ -1,0 +1,16 @@
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\RondaVirtual.exe.config
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\RondaVirtual.exe
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\RondaVirtual.pdb
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\RondaVirtual.xml
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.Form1.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.config.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.Form3.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.Form4.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.Form5.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.Resources.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.exe
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.xml
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.pdb
+C:\Users\Ianick\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\RondaVirtual.users.resources
